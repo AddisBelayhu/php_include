@@ -6,10 +6,17 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <style>
+        .footer {
+            background: #ccc;
+            font-size: 12px;
+
+        }
+    </style>
 </head>
 <body>
-
-<footer>All Rights Reserved. Do not reproduce this page.</footer>
-
+<div class="footer">
+<footer>@ All Rights Reserved. Do not reproduce this page.</footer>
+</div>
 </body>
 </html>
