@@ -5,6 +5,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Header</title>
+
+    <style type="text/css">
+ul, li {
+list-style-type: none;
+display: inline-block;
+margin-right: 1em;
+padding: 0;
+}
+</style>
 </head>
 <body>
 <nav>
