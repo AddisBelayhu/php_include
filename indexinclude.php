@@ -12,8 +12,7 @@
 </style>
 </head>
 <body>
-    
-
+    <h2>This is the main page of the website</h2>
 </body>
 </html>
 

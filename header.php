@@ -11,7 +11,14 @@ ul, li {
 list-style-type: none;
 display: inline-block;
 margin-right: 1em;
-padding: 0;
+padding: 5px;
+
+font-size:20px;
+}
+
+li:hover{
+    background-color: lightgreen;
+    text-decoration: none;
 }
 </style>
 </head>
