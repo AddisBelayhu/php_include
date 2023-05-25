@@ -9,10 +9,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>the Php web application</title>
 
-</style>
+
 </head>
 <body>
     <h2>This is the main page of the website</h2>
+
+
+    
 </body>
 </html>
 

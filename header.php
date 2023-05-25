@@ -32,5 +32,16 @@ li:hover{
 </ul>
 </nav>
 
+<script>
+    const arr = [
+        {type: 'fruit', name: 'apple'},
+        {type: 'veg', name: 'broccoli'},
+        {type: 'fruit', name: 'banana'},
+        {type: 'veg', name: 'carrot'}
+    ];
+    const out = arr.filter(el=>el.type === 'veg');
+    console.log(out);
+</script>
+
 </body>
 </html>
